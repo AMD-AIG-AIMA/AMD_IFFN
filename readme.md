@@ -4,7 +4,7 @@
 
 Advanced Micro Devices, Inc.
 
-<img src="img/iMLP.pdf" width="100%" title="" alt="teaser"></img>
+<img src="img/iMLP.png" width="100%" title="" alt="teaser"></img>
 
 ---
 
