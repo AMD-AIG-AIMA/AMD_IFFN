@@ -24,11 +24,11 @@ The image classification results of our models on ImageNet dataset are shown in 
 |Model|Parameters (M)|FLOPs(G)|Top-1 Accuracy (%)|
 |-|-|-|-|
 |DeiT-Ti|5.72|1.26|72.2|
-|+IFFN (ours)|5.00|1.10|72.6|
+|[+IFFN (ours)](https://drive.google.com/file/d/1NiCpx7-ot0Ulncf2Qh4VO1yiiTR9DzCW/view?usp=drive_link)|5.00|1.10|72.6|
 |DeiT-S|22.05|4.60|79.9|
-|+IFFN (ours)|18.84|3.93|80.0|
+|[+IFFN (ours)](https://drive.google.com/file/d/19apqaCArlgZHpEekXZnb2--ZRhwrS8dj/view?usp=drive_link)|18.84|3.93|80.0|
 |DeiT-B|86.57|17.57|81.8|
-|+IFFN (ours)|73.66|14.92|81.8|
+|[+IFFN (ours)](https://drive.google.com/file/d/10M3xsVS0M-Vsh3f45-QKLeGLfqNIy0_L/view?usp=drive_link)|73.66|14.92|81.8|
 
 ## Model Evaluation
 
